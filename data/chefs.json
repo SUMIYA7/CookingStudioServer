@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Chef John Doe",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/h1-team-member-3.jpg",
+    "experience": 10,
+    "total_recipes_cooked": 500,
+    "total_likes": 10000,
+    "bio": "Chef John Doe is a renowned chef with over 10 years of experience in the culinary arts. He has cooked up over 500 delicious recipes and has received over 10,000 likes for his creations."
+  },
+  {
+    "id": 2,
+    "name": "Chef Jane Smith",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/team-member-6.jpg",
+    "experience": 7,
+    "total_recipes_cooked": 300,
+    "total_likes": 8000,
+    "bio": "Chef Jane Smith is a talented chef with 7 years of experience in the kitchen. She has cooked up over 300 mouth-watering recipes and has received over 8,000 likes for her culinary creations."
+  },
+  {
+    "id": 3,
+    "name": "Chef Lee",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/team-member-5.jpg",
+    "experience": 5,
+    "total_recipes_cooked": 200,
+    "total_likes": 5000,
+    "bio": "Chef Lee is a young and promising chef with 5 years of experience. He has cooked up over 200 delectable recipes and has received over 5,000 likes for his cooking."
+  },
+  {
+    "id": 4,
+    "name": "Chef Maria Rodriguez",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/h1-team-member-2.jpg",
+    "experience": 12,
+    "total_recipes_cooked": 800,
+    "total_likes": 15000,
+    "bio": "Chef Maria Rodriguez is a seasoned chef with 12 years of experience in the culinary world. She has cooked up over 800 flavorful recipes and has received over 15,000 likes for her creations."
+  },
+  {
+    "id": 5,
+    "name": "Chef David Kim",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/h1-team-member-1.jpg",
+    "experience": 3,
+    "total_recipes_cooked": 150,
+    "total_likes": 4000,
+    "bio": "Chef David Kim is a rising star in the culinary world with 3 years of experience. He has cooked up over 150 delicious recipes and has received over 4,000 likes for his cooking."
+  },
+  {
+    "id": 6,
+    "name": "Chef Rachel Chen",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/team-member-4.jpg",
+    "experience": 8,
+    "total_recipes_cooked": 400,
+    "total_likes": 9000,
+    "bio": "Chef Rachel Chen is a skilled chef with 8 years of experience in the kitchen. She has cooked up over 400 mouth-watering recipes and has received over 9,000 likes for her culinary creations."
+  }
+]

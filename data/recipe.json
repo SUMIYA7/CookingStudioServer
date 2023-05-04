@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6bmah",
+    "name": "Butter Chicken",
+    "category_id": "1",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-11-gallery-2-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.5,
+    "short_description": "Marinated chicken cooked in a tomato-based sauce with cream and butter."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6bo",
+    "name": "Chole Bhature",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-11-gallery-1-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.2,
+    "category_id": "2",
+    "short_description": "Chickpeas cooked in a spicy tomato-based gravy, served with deep-fried bread."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b1latq",
+    "name": "Paneer Tikka",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-10-gallery-2-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 3.8,
+    "category_id": "3",
+    "short_description": "Marinated paneer cubes grilled on skewers."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd20mznc15261f11c2ab6b",
+    "name": "Aloo Gobi",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-5-gallery-2-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.1,
+    "category_id": "4",
+    "short_description": "A vegetarian dish made with potatoes and cauliflower cooked in a spicy tomato-based sauce."
+  },
+  {
+    "_id": "0282e0e58a5c4oq7504fbd15261f11c2ab6b",
+    "name": "Tandoori Chicken",
+    "category_id": "5",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-5-gallery-1-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.7,
+    "short_description": "Marinated chicken grilled in a tandoor or oven."
+  },
+  {
+    "_id": "0282e0e58a556xvwsac404fbd15261f11c2ab6b",
+    "name": "Dal Makhani",
+    "category_id": "6",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-2-gallery-2-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.6,
+    "short_description": "A creamy lentil dish made with black lentils and kidney beans."
+  },
+  {
+    "_id": "02we82e0e58a5c404fbd15261f11c2ab6b",
+    "name": "Chicken Biryani",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-4-gallery-1-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 2.9,
+    "category_id": "1",
+    "short_description": "A flavorful rice dish made with chicken, spices, and aromatic basmati rice."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b1pa",
+    "name": "Palak Paneer",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-1-gallery1-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 3.8,
+    "category_id": "2",
+    "short_description": "A creamy spinach-based dish with chunks of paneer."
+  },
+  {
+    "_id": "0282e0e58a5c404fbutyed15261f11c2ab6b",
+    "name": "Samosas",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-4-gallery-1-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 2.5,
+    "category_id": "3",
+    "short_description": "Deep-fried pastry filled with spiced potato and pea filling."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b7",
+    "name": "Butter Chicken",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-7-gallery-1-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.9,
+    "category_id": "3",
+    "short_description": "A creamy tomato-based chicken dish with a rich buttery flavor."
+  },
+  {
+    "_id": "0282e0e58345a5c404fbd15261f11c2ab6b",
+    "name": "Aloo Gobi",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-3-gallery-3-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.4,
+    "category_id": "4",
+    "short_description": "A vegetarian dish made with potatoes and cauliflower cooked in a spicy tomato-based sauce."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11asdc2ab6b",
+    "name": "Chana Masala",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-12-gallery-3-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 3.7,
+    "category_id": "5",
+    "short_description": "A spicy and flavorful dish made with chickpeas in a tomato-based sauce."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11asdc2ab6b",
+    "name": "Chana Masala",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-12-gallery-3-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 3.7,
+    "category_id": "6",
+    "short_description": "A spicy and flavorful dish made with chickpeas in a tomato-based sauce."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6bmah",
+    "name": "Butter Chicken",
+    "category_id": "1",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-11-gallery-2-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.5,
+    "short_description": "Marinated chicken cooked in a tomato-based sauce with cream and butter."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6bo",
+    "name": "Chole Bhature",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-11-gallery-1-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.2,
+    "category_id": "2",
+    "short_description": "Chickpeas cooked in a spicy tomato-based gravy, served with deep-fried bread."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b1latq",
+    "name": "Paneer Tikka",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-10-gallery-2-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 3.8,
+    "category_id": "3",
+    "short_description": "Marinated paneer cubes grilled on skewers."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd20mznc15261f11c2ab6b",
+    "name": "Aloo Gobi",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-5-gallery-2-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.1,
+    "category_id": "4",
+    "short_description": "A vegetarian dish made with potatoes and cauliflower cooked in a spicy tomato-based sauce."
+  },
+  {
+    "_id": "0282e0e58a5c4oq7504fbd15261f11c2ab6b",
+    "name": "Tandoori Chicken",
+    "category_id": "5",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-5-gallery-1-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.7,
+    "short_description": "Marinated chicken grilled in a tandoor or oven."
+  },
+  {
+    "_id": "0282e0e58a556xvwsac404fbd15261f11c2ab6b",
+    "name": "Dal Makhani",
+    "category_id": "6",
+    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-2-gallery-2-300x300.jpg",
+    "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
+    "total_rating": 4.6,
+    "short_description": "A creamy lentil dish made with black lentils and kidney beans."
+  }
+]
