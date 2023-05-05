@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Chef Sanjeev Kapoor",
+    "name": "Sanjeev Kapoor",
     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRafNIvPytQCrkJjxXJVJGnIxL4E5Y695_QceZO6GYTI0cAtAB5",
     "experience": 10,
     "total_recipes_cooked": 500,
     "total_likes": 10000,
-    "bio": "Sanjeev Kapooor  is a renowned chef with over 10 years of experience in the culinary arts. He has cooked up over 500 delicious recipes and has received over 10,000 likes for his creations."
+    "bio": "Sanjeev Kapooor is a renowned chef with over 10 years of experience in the culinary arts. He has cooked up over 500 delicious recipes and has received over 10,000 likes for his creations."
   },
   {
     "id": 2,
