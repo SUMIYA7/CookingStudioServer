@@ -3,7 +3,7 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6bmah",
     "name": "Butter Chicken",
     "category_id": "1",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-11-gallery-2-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1214779812/photo/homemade-chicken-tikka-masala.jpg?s=612x612&w=is&k=20&c=Cg0TLtoVrn5wlpxDsfUaR4TBeSP9g_LJeaTJqOVPp50=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.5,
     "short_description": "Marinated chicken cooked in a tomato-based sauce with cream and butter."
@@ -11,7 +11,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6bo",
     "name": "Chole Bhature",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-11-gallery-1-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1484796012/photo/chole-bhature-with-curd-and-salad-spicy-chick-peas-curry-also-known-as-chole-or-channa-masala.jpg?b=1&s=170667a&w=0&k=20&c=b7R8kd19lK9qeZcPimcdAkRIKORMUtKhwoMBTEKjYpg=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.2,
     "category_id": "2",
@@ -20,7 +20,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b1latq",
     "name": "Paneer Tikka",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-10-gallery-2-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1365548235/photo/spicy-indian-paneer-tikka-cooked-on-a-barbecue-skewer.jpg?b=1&s=170667a&w=0&k=20&c=kWLzQqNNkgMFLl5yOQ8cHGB18jHwlZDUoN9NcN5eJLw=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 3.8,
     "category_id": "3",
@@ -29,7 +29,7 @@
   {
     "_id": "0282e0e58a5c404fbd20mznc15261f11c2ab6b",
     "name": "Aloo Gobi",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-5-gallery-2-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/174961905/photo/gobi-aloo-indian-curry-dish.jpg?b=1&s=170667a&w=0&k=20&c=7xrbT3NtazOWVJJ8d41hCoFvesBP-YX71L9wDmD36l0=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.1,
     "category_id": "4",
@@ -39,7 +39,7 @@
     "_id": "0282e0e58a5c4oq7504fbd15261f11c2ab6b",
     "name": "Tandoori Chicken",
     "category_id": "5",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-5-gallery-1-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1363311536/photo/tandoori-chicken.jpg?b=1&s=170667a&w=0&k=20&c=uGbISwNH_tzdC6EK5l8jMR7JTsK-ZssarVHRdLhZGGc=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.7,
     "short_description": "Marinated chicken grilled in a tandoor or oven."
@@ -48,7 +48,7 @@
     "_id": "0282e0e58a556xvwsac404fbd15261f11c2ab6b",
     "name": "Dal Makhani",
     "category_id": "6",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-2-gallery-2-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/174977521/photo/assortments-of-dishes.jpg?b=1&s=170667a&w=0&k=20&c=VSbEZIDBBAfCP7GhgN7bAni-9OqCCnuPcyttStYVGH0=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.6,
     "short_description": "A creamy lentil dish made with black lentils and kidney beans."
@@ -56,7 +56,7 @@
   {
     "_id": "02we82e0e58a5c404fbd15261f11c2ab6b",
     "name": "Chicken Biryani",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-4-gallery-1-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1058029096/photo/chicken-biryani.jpg?b=1&s=170667a&w=0&k=20&c=N_sr3z9AHkIXXJcQPTxcIsCjMM7RWQFPkMGk8_VM3pE=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 2.9,
     "category_id": "1",
@@ -65,7 +65,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b1pa",
     "name": "Palak Paneer",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-1-gallery1-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1300079188/photo/top-view-of-palak-paneer-or-cottage-cheese-cubes-in-spinach-curry-in-a-bowl.jpg?b=1&s=170667a&w=0&k=20&c=DSOW0EI4OkraeitQJrPST6dvuv3LH1H-vIVSqhqXJbA=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 3.8,
     "category_id": "2",
@@ -74,7 +74,7 @@
   {
     "_id": "0282e0e58a5c404fbutyed15261f11c2ab6b",
     "name": "Samosas",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-4-gallery-1-300x300.jpg",
+    "img": "https://www.istockphoto.com/photo/sweet-tasty-fried-indian-dish-samosha-indian-delicious-deep-fried-breakfast-samosa-gm1430060145-473045200?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fsamoosa&utm_term=samoosa%3A%3A%3A",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 2.5,
     "category_id": "3",
@@ -83,7 +83,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b7",
     "name": "Butter Chicken",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-7-gallery-1-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1373284422/photo/indian-creamy-butter-chicken-curry-with-paratha-bread-served-in-copper-bowl.jpg?b=1&s=170667a&w=0&k=20&c=-a2xzpgIy2fTbVYpcGHJK9hvvRBHEJ4gbzaoicKJxrY=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.9,
     "category_id": "3",
@@ -92,7 +92,7 @@
   {
     "_id": "0282e0e58345a5c404fbd15261f11c2ab6b",
     "name": "Aloo Gobi",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-3-gallery-3-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1317737079/photo/curry-roasted-cauliflower-vegetarian-vegetable-dish-selective-focus-copy-space.jpg?b=1&s=170667a&w=0&k=20&c=b4_Aw9fnrYjmrIIST-btDhMDk9an0XTwNR25KQcsbHY=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.4,
     "category_id": "4",
@@ -101,7 +101,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11asdc2ab6b",
     "name": "Chana Masala",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-12-gallery-3-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1097478652/photo/vegan-chana-alu-masala.jpg?b=1&s=170667a&w=0&k=20&c=GSrSE6fIQKa6C_hUiodJkhOxOea7QQW6IKBAchDyB4M=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 3.7,
     "category_id": "5",
@@ -110,7 +110,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11asdc2ab6b",
     "name": "Chana Masala",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-12-gallery-3-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1097478652/photo/vegan-chana-alu-masala.jpg?b=1&s=170667a&w=0&k=20&c=GSrSE6fIQKa6C_hUiodJkhOxOea7QQW6IKBAchDyB4M=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 3.7,
     "category_id": "6",
@@ -120,7 +120,7 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6bmah",
     "name": "Butter Chicken",
     "category_id": "1",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-11-gallery-2-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1411524598/photo/chicken-tikka-masala-cooked-marinated-chicken-in-spiced-curry-sauce.jpg?b=1&s=170667a&w=0&k=20&c=EngCL3U8rrjGiEMYIZkJ6SeW8XUguTJrZUZQ__D6DhI=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.5,
     "short_description": "Marinated chicken cooked in a tomato-based sauce with cream and butter."
@@ -128,7 +128,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6bo",
     "name": "Chole Bhature",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-11-gallery-1-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1425103614/photo/famous-north-indian-dish-chole-bhature-is-ready-to-eat.jpg?b=1&s=170667a&w=0&k=20&c=NjkRdl0pbr1otgXwOJTwZTE0FsGIFCavmzNtZua1C00=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.2,
     "category_id": "2",
@@ -137,7 +137,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b1latq",
     "name": "Paneer Tikka",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-10-gallery-2-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1405092068/photo/paneer-tikka-kabab-with-lime-in-a-dish-isolated-on-napkin-side-view-on-grey-background-famous.jpg?b=1&s=170667a&w=0&k=20&c=eeeEnfTvFIKx_Nb61_Yru5LWQpliYEyMW9qr3NUciac=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 3.8,
     "category_id": "3",
@@ -146,7 +146,7 @@
   {
     "_id": "0282e0e58a5c404fbd20mznc15261f11c2ab6b",
     "name": "Aloo Gobi",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-5-gallery-2-300x300.jpg",
+    "img": "",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.1,
     "category_id": "4",
@@ -156,7 +156,7 @@
     "_id": "0282e0e58a5c4oq7504fbd15261f11c2ab6b",
     "name": "Tandoori Chicken",
     "category_id": "5",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-5-gallery-1-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1091565958/photo/spicy-potato-curry-indian-recipe.jpg?b=1&s=170667a&w=0&k=20&c=Ot-JOt2XAcvZq0Zjm2UYWUqAQLk5oNhhsSu2HE34vBE=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.7,
     "short_description": "Marinated chicken grilled in a tandoor or oven."
@@ -165,7 +165,7 @@
     "_id": "0282e0e58a556xvwsac404fbd15261f11c2ab6b",
     "name": "Dal Makhani",
     "category_id": "6",
-    "img": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-2-gallery-2-300x300.jpg",
+    "img": "https://media.istockphoto.com/id/1440057519/photo/daal-makhani-butter-with-white-rice-served-in-dish-isolated-on-table-side-view-of-middle-east.jpg?b=1&s=170667a&w=0&k=20&c=QGc7QwmttusrSZX8Y3LLHAkmKryonya-CL91lH5sinI=",
     "ingredients": "500 grams boneless chicken,1 teaspoon garam masala powder,1 tablespoon oil,1 tablespoon butter,1 cup tomato puree,1 cup cream,Salt to taste",
     "total_rating": 4.6,
     "short_description": "A creamy lentil dish made with black lentils and kidney beans."
